@@ -174,6 +174,21 @@ table, th, td {
     font-weight: bold;
 }
 
+/* markin dots */
+.dots_wrapper {
+    width: 83%;
+    height: 180px;
+    justify-content: center;
+    padding: 20px 20px;
+    align-items: center;
+    font-family: bold;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 5px dotted #a977ad;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    font-size: 20px;
+    }
 
 
 
